@@ -3,7 +3,7 @@ The major focus of our FYP idea is to use actual factors to generate a 3D model,
 
 
 GROUP MEMBERS:
-Aisha Azhar
-Areeba Aziz
-Rafia Waseem
+Aisha Azhar,
+Areeba Aziz,
+Rafia Waseem,
 Sumaiya Jamal
